@@ -4,7 +4,7 @@
 
 #to fix it
 #remove the rows
-#convert all cells IN THE COLUMNS INTO THE SAME FORMAT
+#convert all cells IN THE COLUMNS INTO THE SAME FORMA
 
 #pandas has to_datetime() method for this:
 
